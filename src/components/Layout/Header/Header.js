@@ -5,13 +5,7 @@ const Header = () => {
     return (
         <SHeader>
             <SHeaderContent>
-                <SLogo>Form Component </SLogo>
-                <SAttribute
-                    href={"https://www.youtube.com/channel/UCQo_1uyUB4wf-5u7OsVIGHg"}
-                    target="_blank"
-                >
-                    CodeFocus
-                </SAttribute>
+                <SLogo>Login Page </SLogo>
             </SHeaderContent>
         </SHeader>
     );
